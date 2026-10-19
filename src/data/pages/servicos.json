@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de contabilidade — Contábil Paulista",
+    "description": "Abertura de empresa, contabilidade para MEI e empresas, departamento pessoal, imposto de renda, planejamento tributário e BPO financeiro em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Contabilidade completa para o seu negócio.",
+      "lead": "Da abertura da empresa ao planejamento tributário — cuidamos das obrigações e dos impostos para você focar no que importa.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Falar com um contador", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Contabilidade confiável, sem surpresa.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Contadores responsáveis", "text": "Profissionais registrados e atualizados." },
+        { "title": "Você paga o justo", "text": "Impostos conferidos para não recolher a mais." },
+        { "title": "Mensalidade transparente", "text": "Proposta fechada, sem cobrança surpresa." },
+        { "title": "Atendimento ágil", "text": "Dúvidas respondidas em até 24 horas." },
+        { "title": "Online ou presencial", "text": "Resolva à distância ou no escritório em SP." },
+        { "title": "Relatórios claros", "text": "Números que ajudam você a decidir." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Fale com um contador sem compromisso.",
+      "services": ["Abertura de empresa", "Contabilidade para MEI", "Contabilidade para empresas", "Departamento pessoal e folha de pagamento", "Imposto de Renda", "Planejamento tributário", "BPO financeiro", "Contabilidade para médicos", "Contabilidade para e-commerce"]
+    }}
+  ]
+}

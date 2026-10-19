@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Contábil Paulista",
+    "description": "Contadores e especialistas em departamento fiscal e pessoal cuidando da sua empresa em São Paulo. Conheça o time da Contábil Paulista."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Profissionais que cuidam da sua empresa.",
+      "lead": "Time de contabilidade, fiscal e departamento pessoal pronto para cada necessidade do seu negócio.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Contador responsável", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Departamento fiscal", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Departamento pessoal", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Atendimento e relacionamento", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "600+", "label": "Empresas atendidas" },
+        { "value": "9", "label": "Serviços de contabilidade" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Fale com um contador sem compromisso.",
+      "services": ["Abertura de empresa", "Contabilidade para MEI", "Contabilidade para empresas", "Departamento pessoal e folha de pagamento", "Imposto de Renda", "Planejamento tributário", "BPO financeiro", "Contabilidade para médicos", "Contabilidade para e-commerce"]
+    }}
+  ]
+}

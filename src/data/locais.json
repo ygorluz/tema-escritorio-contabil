@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "itaim-bibi",
+    "nome": "Itaim Bibi",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Olímpia",
+      "Brooklin",
+      "Jardim Paulista"
+    ],
+    "referenciaLocal": "Atendemos empresas e profissionais do Itaim Bibi, dos escritórios da Faria Lima às startups e prestadores de serviço da região, com contabilidade ágil e atendimento online ou presencial.",
+    "faq": [
+      {
+        "q": "Vocês atendem empresas no Itaim Bibi presencialmente?",
+        "a": "Sim. Atendemos presencialmente no Itaim Bibi e região da Faria Lima, e também 100% online para quem prefere resolver tudo à distância."
+      },
+      {
+        "q": "Fazem a abertura de empresa para quem é do Itaim Bibi?",
+        "a": "Fazemos. Cuidamos de todo o registro do CNPJ e da escolha do regime tributário que paga menos imposto para o seu caso."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Alto de Pinheiros"
+    ],
+    "referenciaLocal": "Atendemos negócios de Pinheiros e da Vila Madalena — agências, comércio, e-commerce e profissionais liberais — com contabilidade que acompanha o ritmo da região.",
+    "faq": [
+      {
+        "q": "Atendem agências e e-commerce em Pinheiros?",
+        "a": "Sim. Temos contabilidade adaptada para agências, lojas virtuais e marketplaces, com a conciliação de vendas e repasses em dia."
+      },
+      {
+        "q": "Consigo trocar de contador sem parar minha empresa?",
+        "a": "Consegue. Cuidamos da transição com o escritório anterior sem interromper a rotina nem a emissão de notas."
+      }
+    ]
+  },
+  {
+    "slug": "vila-olimpia",
+    "nome": "Vila Olímpia",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Itaim Bibi",
+      "Brooklin",
+      "Moema"
+    ],
+    "referenciaLocal": "Levamos nossa contabilidade às empresas da Vila Olímpia, dos escritórios corporativos às empresas de tecnologia e serviços, com relatórios claros para apoiar decisões.",
+    "faq": [
+      {
+        "q": "Fazem contabilidade para empresas de tecnologia na Vila Olímpia?",
+        "a": "Fazemos. Atendemos empresas de serviço e tecnologia com apuração no regime ideal e relatórios gerenciais mensais."
+      },
+      {
+        "q": "Vocês cuidam da folha de pagamento e do eSocial?",
+        "a": "Sim. Cuidamos de todo o departamento pessoal: folha, admissão, rescisão e envio dos eventos do eSocial."
+      }
+    ]
+  },
+  {
+    "slug": "centro",
+    "nome": "Centro",
+    "prep": "no",
+    "regiao": "região central de São Paulo",
+    "bairrosVizinhos": [
+      "Sé",
+      "República",
+      "Bela Vista"
+    ],
+    "referenciaLocal": "Atendemos o comércio e os prestadores de serviço do Centro de São Paulo, da Sé à República, com contabilidade que mantém as obrigações em dia e os impostos sob controle.",
+    "faq": [
+      {
+        "q": "Atendem comércio e lojas no Centro de São Paulo?",
+        "a": "Sim. Cuidamos da contabilidade de comércios e prestadores de serviço da região central, com apuração de impostos e emissão de notas em ordem."
+      },
+      {
+        "q": "Ajudam a regularizar empresa ou MEI em atraso?",
+        "a": "Ajudamos. Fazemos o parcelamento e a regularização para o CNPJ voltar a ficar ativo e em dia com o Fisco."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Carrão"
+    ],
+    "referenciaLocal": "Atendemos empresas e profissionais do Tatuapé e da Zona Leste, do comércio de bairro às clínicas e consultórios, com contabilidade próxima e atendimento direto.",
+    "faq": [
+      {
+        "q": "Fazem contabilidade para médicos e clínicas no Tatuapé?",
+        "a": "Fazemos. Temos contabilidade especializada para a área da saúde, com estrutura para pagar menos imposto de forma legal."
+      },
+      {
+        "q": "Atendem MEI e pequenas empresas da Zona Leste?",
+        "a": "Atendemos. Temos planos enxutos para MEI e pequenas empresas, cuidando do DAS, das declarações e das dúvidas do dia a dia."
+      }
+    ]
+  }
+]

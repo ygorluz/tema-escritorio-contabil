@@ -1,0 +1,41 @@
+[
+  {
+    "id": "expert-1",
+    "name": "Carlos Mendes",
+    "role": "Contador responsável",
+    "avatar": "",
+    "bio": "Contador responsável pela Contábil Paulista. Escreve sobre impostos, abertura de empresa e contabilidade para pequenos negócios.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "expert-2",
+    "name": "Rafael Souza",
+    "role": "Especialista fiscal",
+    "avatar": "",
+    "bio": "Cuida do departamento fiscal e escreve sobre regimes tributários, notas fiscais e obrigações das empresas.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "expert-3",
+    "name": "André Lima",
+    "role": "Departamento pessoal",
+    "avatar": "",
+    "bio": "Especialista em folha de pagamento e eSocial. Escreve sobre contratação, encargos e obrigações trabalhistas.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  }
+]

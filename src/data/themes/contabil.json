@@ -1,0 +1,17 @@
+{
+  "name": "Contábil",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#EEF3F8",
+    "ink": "#0F2A43",
+    "ink-muted": "#4B6071",
+    "primary": "#0F2A43",
+    "secondary": "#1E5A8A",
+    "accent": "#1C8C6A",
+    "accent-ink": "#04261C",
+    "accent-strong": "#0B6B50",
+    "border": "#D9E3EC"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Contábil Paulista",
+  "segmento": "Contabilidade",
+  "schemaType": "AccountingService",
+  "postUrlPrefix": "",
+  "description": "Escritório de contabilidade em São Paulo: abertura de empresa, contabilidade para MEI e empresas, departamento pessoal, imposto de renda e planejamento tributário. Fale com um contador.",
+  "ctaLabel": "Falar com um contador",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@contabilpaulista.com.br",
+  "address": "Itaim Bibi — São Paulo, SP",
+  "hours": "Seg a Sex, 9h às 18h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#", "linkedin": "#" },
+  "nap": {
+    "streetAddress": "Av. Brigadeiro Faria Lima, 0000 — conj. 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "04538-000",
+    "country": "BR",
+    "latitude": -23.5853,
+    "longitude": -46.6803,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=Itaim+Bibi+S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

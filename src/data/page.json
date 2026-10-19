@@ -1,0 +1,257 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Contabilidade em São Paulo",
+        "title": "Sua empresa em dia com o Fisco e pagando menos imposto.",
+        "lead": "Abertura de empresa, contabilidade para MEI e empresas, folha de pagamento e planejamento tributário. Atendimento online e presencial em São Paulo.",
+        "cta": {
+          "label": "Falar com um contador",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Equipe contábil própria",
+          "role": "Contadores responsáveis",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 9h às 18h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+15 anos cuidando de empresas em SP",
+        "eyebrow": "Sobre o escritório",
+        "title": "Contabilidade que você entende e na qual pode confiar.",
+        "lead": "Cuidamos das obrigações, dos impostos e da rotina contábil da sua empresa, com linguagem clara e atendimento próximo, sem juridiquês.",
+        "benefits": [
+          "Contadores responsáveis e atualizados",
+          "Atendimento online e presencial em São Paulo",
+          "Impostos calculados para você pagar o justo",
+          "Relatórios claros para apoiar suas decisões"
+        ],
+        "cta": {
+          "label": "Conheça o escritório",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Contabilidade completa para o seu negócio.",
+        "items": [
+          {
+            "title": "Abertura de empresa",
+            "text": "Registro do CNPJ do zero, no regime que paga menos imposto."
+          },
+          {
+            "title": "Contabilidade para MEI",
+            "text": "DAS, declaração anual e nota fiscal sempre em dia."
+          },
+          {
+            "title": "Contabilidade para empresas",
+            "text": "Rotina mensal completa no Simples, Presumido ou Real."
+          },
+          {
+            "title": "Planejamento tributário",
+            "text": "Estrutura legal para reduzir a carga de impostos."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Anos de contabilidade"
+          },
+          {
+            "value": "600+",
+            "label": "Empresas atendidas"
+          },
+          {
+            "value": "24h",
+            "label": "Resposta às suas dúvidas"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Contabilidade sem dor de cabeça e sem surpresa.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Contadores responsáveis",
+            "text": "Profissionais registrados e sempre atualizados."
+          },
+          {
+            "title": "Você paga o justo",
+            "text": "Impostos conferidos para não recolher a mais."
+          },
+          {
+            "title": "Mensalidade transparente",
+            "text": "Proposta fechada, sem cobrança surpresa."
+          },
+          {
+            "title": "Atendimento ágil",
+            "text": "Suas dúvidas respondidas em até 24 horas."
+          },
+          {
+            "title": "Online ou presencial",
+            "text": "Resolva à distância ou no nosso escritório."
+          },
+          {
+            "title": "Relatórios claros",
+            "text": "Números que ajudam você a decidir melhor."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos para começar com a gente.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Conversa",
+            "text": "Você nos conta sobre o seu negócio pelo WhatsApp ou formulário."
+          },
+          {
+            "n": "02",
+            "title": "Proposta",
+            "text": "Apresentamos o plano e a mensalidade fechada para o seu caso."
+          },
+          {
+            "n": "03",
+            "title": "Transição",
+            "text": "Assumimos a contabilidade e cuidamos das obrigações por você."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Profissionais que cuidam da sua empresa.",
+        "members": [
+          {
+            "name": "Contabilidade",
+            "role": "Escrituração e impostos",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Departamento fiscal",
+            "role": "Notas e apurações",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Departamento pessoal",
+            "role": "Folha e eSocial",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Atendimento",
+            "role": "Suporte e dúvidas",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Abriram minha empresa rápido e ainda me colocaram no regime que paga menos imposto.",
+            "name": "Roberto L.",
+            "role": "Itaim Bibi"
+          },
+          {
+            "quote": "Troquei de contador sem nenhuma dor de cabeça e os relatórios são muito claros.",
+            "name": "Mariana D.",
+            "role": "Pinheiros"
+          },
+          {
+            "quote": "Como médico, eu pagava imposto demais. Estruturaram minha PJ e economizei bastante.",
+            "name": "Thiago L.",
+            "role": "Tatuapé"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas de contabilidade e impostos.",
+        "items": [
+          {
+            "title": "MEI ou ME: quando vale a pena mudar",
+            "excerpt": "Como saber a hora certa de sair do MEI.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Simples, Presumido ou Real: qual paga menos",
+            "excerpt": "Entenda como escolher o melhor regime.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Como fugir da malha fina do Imposto de Renda",
+            "excerpt": "Os erros mais comuns e como evitá-los.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Fale com um contador sem compromisso.",
+        "services": [
+          "Abertura de empresa",
+          "Contabilidade para MEI",
+          "Contabilidade para empresas",
+          "Departamento pessoal e folha de pagamento",
+          "Planejamento tributário"
+        ]
+      }
+    }
+  ]
+}

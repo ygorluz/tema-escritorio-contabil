@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça sua proposta — Contábil Paulista",
+    "description": "Solicite uma proposta de contabilidade para a sua empresa ou MEI. Atendimento online e presencial em São Paulo, sem compromisso."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça sua proposta",
+      "title": "Proposta de contabilidade em três passos.",
+      "lead": "Informe o serviço e seus dados — a gente entra em contato com a proposta.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Proposta", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos para começar com a gente.",
+      "steps": [
+        { "n": "01", "title": "Conversa", "text": "Você nos conta sobre o seu negócio pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Proposta", "text": "Apresentamos o plano e a mensalidade fechada para o seu caso." },
+        { "n": "03", "title": "Transição", "text": "Assumimos a contabilidade e cuidamos das obrigações por você." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba sua proposta.",
+      "services": ["Abertura de empresa", "Contabilidade para MEI", "Contabilidade para empresas", "Departamento pessoal e folha de pagamento", "Imposto de Renda", "Planejamento tributário", "BPO financeiro", "Contabilidade para médicos", "Contabilidade para e-commerce"]
+    }}
+  ]
+}

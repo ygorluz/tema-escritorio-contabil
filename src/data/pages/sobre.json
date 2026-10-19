@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Contábil Paulista",
+    "description": "Mais de 15 anos cuidando da contabilidade de empresas e profissionais em São Paulo. Conheça a história e os valores da Contábil Paulista."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre o escritório",
+      "title": "Contabilidade com quem entende do assunto.",
+      "lead": "Mais de uma década cuidando de empresas e profissionais em São Paulo, com atendimento próximo e linguagem clara.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "15+ anos de experiência",
+      "title": "Contabilidade com quem entende do assunto.",
+      "lead": "Atendemos de MEI a empresas de médio porte, sempre com apuração conferida e impostos no valor justo.",
+      "benefits": [
+        "Contadores responsáveis e atualizados",
+        "Abertura, MEI, empresas e área da saúde",
+        "Impostos conferidos para você pagar o justo",
+        "Atendimento online e presencial em SP"
+      ],
+      "cta": { "label": "Falar com um contador", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "600+", "label": "Empresas atendidas" },
+        { "value": "9", "label": "Serviços de contabilidade" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos para começar com a gente.",
+      "steps": [
+        { "n": "01", "title": "Conversa", "text": "Você nos conta sobre o seu negócio pelo WhatsApp ou formulário." },
+        { "n": "02", "title": "Proposta", "text": "Apresentamos o plano e a mensalidade fechada para o seu caso." },
+        { "n": "03", "title": "Transição", "text": "Assumimos a contabilidade e cuidamos das obrigações por você." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Abriram minha empresa rápido e no regime que paga menos imposto.", "name": "Roberto L.", "role": "Cliente — Itaim Bibi" },
+        { "quote": "Troquei de contador sem dor de cabeça e os relatórios são claros.", "name": "Mariana D.", "role": "Cliente — Pinheiros" },
+        { "quote": "Estruturaram minha PJ de médico e passei a pagar bem menos.", "name": "Thiago L.", "role": "Cliente — Tatuapé" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Fale com um contador sem compromisso.",
+      "services": ["Abertura de empresa", "Contabilidade para MEI", "Contabilidade para empresas", "Departamento pessoal e folha de pagamento", "Imposto de Renda", "Planejamento tributário", "BPO financeiro", "Contabilidade para médicos", "Contabilidade para e-commerce"]
+    }}
+  ]
+}

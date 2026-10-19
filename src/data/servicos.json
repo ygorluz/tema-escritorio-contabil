@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "abertura-de-empresa",
+    "nome": "Abertura de empresa",
+    "resumo": "Registro do seu CNPJ do zero, com escolha do regime que paga menos imposto.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que envolve a abertura de empresa",
+        "conteudo": "A abertura de empresa é o processo de registrar o seu negócio nos órgãos públicos e obter o CNPJ para emitir nota fiscal e operar dentro da lei.\n\nEnvolve escolher o tipo societário, o regime tributário e a atividade (CNAE), registrar na Junta Comercial e liberar as inscrições municipal e estadual quando necessário."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Escolha do tipo de empresa e do CNAE",
+        "conteudo": "Antes de abrir, definimos se o melhor formato é MEI, empresário individual, sociedade limitada (LTDA) ou SLU, conforme o faturamento previsto e o número de sócios.\n\nTambém ajustamos o CNAE, o código que descreve a sua atividade, porque ele influencia impostos, licenças e a possibilidade de optar pelo Simples Nacional.\n\n- SLU: um sócio, sem sócio obrigatório\n- LTDA: dois ou mais sócios\n- MEI: faturamento dentro do teto anual"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Regime tributário: Simples, Presumido ou Real",
+        "conteudo": "Na abertura já indicamos o regime que paga menos imposto para o seu caso, comparando Simples Nacional, Lucro Presumido e Lucro Real.\n\nEssa escolha, feita na hora certa, evita pagar tributo a mais durante o ano todo e pode ser revista no início do exercício seguinte."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Documentos e prazos do registro",
+        "conteudo": "Para abrir, precisamos dos documentos dos sócios, do endereço do negócio e da definição do contrato social, e cuidamos de todo o protocolo nos órgãos.\n\nCom a documentação em mãos, o CNPJ costuma sair em poucos dias úteis, variando conforme a Junta Comercial e a necessidade de licenças."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quanto custa abrir empresa com contador",
+        "conteudo": "O custo combina as taxas dos órgãos públicos e os honorários da contabilidade, e apresentamos tudo de forma transparente antes de começar.\n\nDepois de aberta, a empresa segue com a mensalidade da contabilidade, que já inclui as obrigações e o suporte do dia a dia."
+      }
+    ]
+  },
+  {
+    "slug": "contabilidade-para-mei",
+    "nome": "Contabilidade para MEI",
+    "resumo": "DAS, declaração anual e nota fiscal do MEI em dia, sem dor de cabeça.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que o MEI precisa fazer todo mês e todo ano",
+        "conteudo": "O Microempreendedor Individual paga o DAS mensal e entrega a Declaração Anual (DASN-SIMEI), além de guardar as notas de compra e venda.\n\nParece simples, mas o atraso no DAS ou o erro na declaração geram multa e podem até cancelar o registro."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quando vale a pena sair do MEI",
+        "conteudo": "O MEI tem um teto de faturamento e limite de funcionário, e quando o negócio cresce além disso é hora de migrar para ME no Simples Nacional.\n\nAcompanhamos o seu faturamento e avisamos com antecedência para a mudança acontecer sem multa e sem parar de emitir nota."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Emissão de nota fiscal como MEI",
+        "conteudo": "Orientamos como emitir nota fiscal de serviço ou de produto, fazer o cadastro na prefeitura e usar o sistema certo para cada tipo de venda.\n\nIsso evita problemas com clientes que exigem nota e mantém o seu controle de faturamento em dia."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Regularização de MEI em atraso",
+        "conteudo": "Se você tem DAS atrasado ou declaração pendente, fazemos o parcelamento e a regularização para o CNPJ voltar a ficar ativo.\n\nDeixar a situação em dia é o que garante acesso a crédito, emissão de nota e a contagem do tempo para a aposentadoria pelo INSS."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quanto custa a contabilidade para MEI",
+        "conteudo": "Trabalhamos com um plano enxuto para MEI, que cabe no orçamento de quem está começando e tira o peso da burocracia das suas costas.\n\nVocê cuida do seu serviço e a gente cuida do DAS, da declaração e das dúvidas do dia a dia."
+      }
+    ]
+  },
+  {
+    "slug": "contabilidade-para-empresas",
+    "nome": "Contabilidade para empresas",
+    "resumo": "Contabilidade mensal completa para empresas no Simples, Presumido ou Real.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Contabilidade mensal completa",
+        "conteudo": "Cuidamos da escrituração contábil e fiscal, da apuração dos impostos e da entrega das obrigações ao governo, mês a mês, sem você precisar acompanhar prazos.\n\nVocê recebe os relatórios e os guias de pagamento organizados, com tempo para revisar antes do vencimento."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Apuração de impostos sem erro",
+        "conteudo": "Calculamos os tributos conforme o seu regime — Simples Nacional, Lucro Presumido ou Lucro Real — e conferimos cada apuração antes de fechar.\n\nEsse cuidado evita pagar imposto a mais e também o risco de autuação por recolher a menos."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Relatórios que ajudam a decidir",
+        "conteudo": "Além da obrigação legal, entregamos balancete, DRE e o resultado do mês em linguagem clara, para você enxergar lucro, custo e margem.\n\nÉ a diferença entre só cumprir a lei e usar a contabilidade para tomar decisão com números reais."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Troca de contador sem dor de cabeça",
+        "conteudo": "Se você já tem empresa e quer trocar de escritório, cuidamos da transição, pedimos os arquivos ao contador anterior e revisamos as pendências.\n\nO processo é tranquilo e, na maioria dos casos, não interrompe a rotina nem a emissão de notas."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Mensalidade da contabilidade empresarial",
+        "conteudo": "A mensalidade é definida conforme o porte da empresa, o regime e o volume de notas, e apresentamos a proposta fechada antes de começar.\n\nAssim você sabe exatamente o que está incluído, sem cobrança surpresa ao longo do ano."
+      }
+    ]
+  },
+  {
+    "slug": "departamento-pessoal",
+    "nome": "Departamento pessoal e folha de pagamento",
+    "resumo": "Folha de pagamento, admissão, rescisão e eSocial sob controle.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que é o departamento pessoal",
+        "conteudo": "O departamento pessoal cuida de tudo que envolve o funcionário: admissão, folha de pagamento, férias, 13º, encargos e rescisão.\n\nÉ a área que mantém a empresa em dia com a CLT e com o eSocial, evitando multa e processo trabalhista."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Folha de pagamento e encargos",
+        "conteudo": "Calculamos a folha todo mês com salário, descontos, INSS e FGTS, e geramos as guias para você pagar dentro do prazo.\n\nTudo conferido antes de fechar, para o funcionário receber certo e a empresa não recolher errado."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Admissão e rescisão de funcionários",
+        "conteudo": "Cuidamos da admissão com registro e exames, e da rescisão com o cálculo correto das verbas, dentro dos prazos legais.\n\nIsso protege a empresa de passivo trabalhista e dá segurança na hora de contratar ou desligar."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "eSocial e obrigações trabalhistas",
+        "conteudo": "Enviamos os eventos do eSocial e cuidamos das obrigações acessórias do trabalho, mantendo a empresa regular perante o governo.\n\nVocê não precisa acompanhar cada prazo: a gente monitora e avisa o que for necessário."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Pró-labore e retirada dos sócios",
+        "conteudo": "Definimos o pró-labore dos sócios de forma correta, equilibrando a contribuição ao INSS e a carga de imposto pessoal.\n\nUma retirada bem estruturada evita problema com o Fisco e organiza a remuneração de quem comanda o negócio."
+      }
+    ]
+  },
+  {
+    "slug": "imposto-de-renda",
+    "nome": "Imposto de Renda",
+    "resumo": "Declaração de IRPF e IRPJ revisada para você pagar o justo e fugir da malha fina.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Declaração de Imposto de Renda da pessoa física",
+        "conteudo": "Preparamos e entregamos a declaração do IRPF revisando rendimentos, bens, despesas dedutíveis e informes para você pagar o justo.\n\nFazemos a conferência para reduzir o risco de cair na malha fina e para aproveitar todas as deduções permitidas."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Imposto de Renda da empresa (IRPJ)",
+        "conteudo": "Apuramos o IRPJ e a CSLL conforme o regime da empresa e cuidamos das entregas dentro do prazo, sem atropelo.\n\nNos regimes Presumido e Real, o cálculo correto faz diferença direta no quanto a empresa paga."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quem é obrigado a declarar",
+        "conteudo": "Explicamos com clareza quem precisa declarar — por renda, por bens, por ganho de capital ou por atividade rural — para você não deixar de cumprir nem declarar à toa.\n\nNa dúvida, avaliamos a sua situação e dizemos exatamente o que se aplica a você."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como ficar fora da malha fina",
+        "conteudo": "A malha fina acontece por divergência entre o que você declara e o que as fontes informam à Receita.\n\nCruzamos os seus informes, conferimos os valores e organizamos os comprovantes para a declaração bater certo."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Restituição e pagamento do imposto",
+        "conteudo": "Quando há imposto a restituir, organizamos a declaração para você receber no lote mais cedo possível.\n\nQuando há imposto a pagar, indicamos o parcelamento e os prazos para não gerar multa nem juros."
+      }
+    ]
+  },
+  {
+    "slug": "planejamento-tributario",
+    "nome": "Planejamento tributário",
+    "resumo": "Estrutura legal para a sua empresa pagar o menor imposto possível.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que é planejamento tributário",
+        "conteudo": "Planejamento tributário é organizar a empresa, de forma legal, para pagar o menor imposto possível dentro das regras.\n\nNão é sonegar: é usar os regimes, os benefícios e a estrutura societária a favor do seu caixa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Comparação entre os regimes tributários",
+        "conteudo": "Simulamos o seu negócio no Simples Nacional, no Lucro Presumido e no Lucro Real para mostrar, em números, qual paga menos.\n\nA escolha certa pode reduzir bastante a carga do ano, e revisamos isso sempre no início do exercício."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Enquadramento e CNAE corretos",
+        "conteudo": "Conferimos se o CNAE e o anexo do Simples estão certos, porque um enquadramento errado faz a empresa pagar alíquota maior do que deveria.\n\nO ajuste, quando cabível, costuma trazer economia imediata e contínua."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Recuperação de impostos pagos a mais",
+        "conteudo": "Revisamos os últimos períodos para identificar tributo recolhido a mais e, quando possível, recuperar ou compensar esse valor.\n\nÉ dinheiro da empresa que pode voltar para o caixa de forma legal e documentada."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Planejamento contínuo, não uma vez só",
+        "conteudo": "O melhor resultado vem do acompanhamento ao longo do ano, ajustando o regime conforme o faturamento e as mudanças na lei.\n\nPor isso tratamos o planejamento como rotina, não como um relatório que fica na gaveta."
+      }
+    ]
+  },
+  {
+    "slug": "bpo-financeiro",
+    "nome": "BPO financeiro",
+    "resumo": "Terceirização do financeiro: contas, conciliação e fluxo de caixa organizados.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que é BPO financeiro",
+        "conteudo": "BPO financeiro é a terceirização da rotina financeira da empresa: contas a pagar, contas a receber, conciliação bancária e fluxo de caixa.\n\nVocê tira essa operação das costas e ganha um financeiro organizado sem precisar montar um departamento interno."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Contas a pagar e a receber",
+        "conteudo": "Organizamos os pagamentos nos prazos certos e o controle dos recebimentos, evitando juros por atraso e perda de prazo com fornecedores.\n\nTudo registrado, para você saber a qualquer momento quanto entra e quanto sai."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Conciliação bancária e fluxo de caixa",
+        "conteudo": "Conciliamos os lançamentos com o extrato do banco e montamos o fluxo de caixa para você enxergar a saúde financeira em tempo real.\n\nÉ o que mostra, com antecedência, se vai sobrar ou faltar dinheiro no mês."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Relatórios financeiros para decidir",
+        "conteudo": "Entregamos relatórios simples de entender, com posição de caixa, contas em aberto e projeção, para apoiar as suas decisões.\n\nNada de planilha bagunçada: você recebe a informação pronta para agir."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Para quem o BPO financeiro vale a pena",
+        "conteudo": "É ideal para o empresário que perde tempo demais com boleto e banco, ou que não tem alguém de confiança cuidando do dinheiro.\n\nLibera você para focar em vender e crescer, com a parte financeira rodando nos bastidores."
+      }
+    ]
+  },
+  {
+    "slug": "contabilidade-para-medicos",
+    "nome": "Contabilidade para médicos",
+    "resumo": "Contabilidade especializada para médicos, dentistas e clínicas pagarem menos.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Contabilidade especializada para a área da saúde",
+        "conteudo": "Atendemos médicos, dentistas e outros profissionais da saúde com a contabilidade pensada para a rotina de consultório, plantão e pessoa jurídica.\n\nConhecemos as particularidades da área e ajudamos a pagar menos imposto de forma legal."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Abrir PJ para reduzir imposto",
+        "conteudo": "Muitos médicos pagam menos abrindo uma pessoa jurídica para receber por plantões e consultas, em vez de tudo como pessoa física.\n\nSimulamos o seu caso para mostrar a diferença real entre receber como PF e como PJ."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Equiparação hospitalar e benefícios fiscais",
+        "conteudo": "Para clínicas que prestam certos serviços, a equiparação hospitalar pode reduzir bastante a base de cálculo dos impostos no Lucro Presumido.\n\nVerificamos se a sua atividade se enquadra e cuidamos da documentação necessária."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Carnê-leão e imposto do consultório",
+        "conteudo": "Para quem recebe como pessoa física, organizamos o carnê-leão mensal e a declaração para não acumular imposto nem cair na malha.\n\nMantemos os recebimentos de convênios e particulares devidamente registrados."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Contabilidade da clínica e dos sócios",
+        "conteudo": "Cuidamos da contabilidade da clínica e também da declaração dos sócios, de forma integrada, para a vida fiscal fechar certo dos dois lados.\n\nAssim a empresa e o profissional ficam regulares e pagando o justo."
+      }
+    ]
+  },
+  {
+    "slug": "contabilidade-para-ecommerce",
+    "nome": "Contabilidade para e-commerce",
+    "resumo": "Contabilidade para lojas virtuais, marketplaces e infoprodutos.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Contabilidade para quem vende online",
+        "conteudo": "Atendemos lojas virtuais, vendedores de marketplace e infoprodutores com a contabilidade adaptada à realidade das vendas pela internet.\n\nEntendemos o fluxo de marketplaces, gateways e plataformas, e organizamos isso na contabilidade do jeito certo."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Impostos sobre vendas e marketplaces",
+        "conteudo": "Cuidamos da apuração dos impostos sobre as vendas e do tratamento das retenções feitas pelos marketplaces, para não pagar duas vezes.\n\nConferimos os repasses das plataformas com o faturamento real, evitando divergência com o Fisco."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Emissão de nota fiscal e logística",
+        "conteudo": "Orientamos a emissão de nota fiscal nas vendas e nas devoluções e o tratamento do frete e do estoque dentro das regras.\n\nIsso mantém a operação regular e evita mercadoria retida ou problema com a transportadora."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Regime tributário ideal para e-commerce",
+        "conteudo": "Comparamos Simples Nacional e Lucro Presumido para o seu volume de vendas e margem, indicando o que sobra mais no fim do mês.\n\nNo e-commerce, a escolha do regime e do CNAE pesa direto no preço final do produto."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Conciliação de vendas e repasses",
+        "conteudo": "Conciliamos as vendas das plataformas com os valores que caem na conta, descontando taxas e antecipações.\n\nVocê passa a saber exatamente quanto cada canal de venda realmente rende."
+      }
+    ]
+  }
+]

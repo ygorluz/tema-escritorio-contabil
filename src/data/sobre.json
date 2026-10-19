@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Contabilidade de confiança em São Paulo",
+    "desc": "Somos um escritório de contabilidade com equipe própria, atendendo empresas e profissionais em São Paulo, presencialmente e online. Cuidamos de abertura de empresa, contabilidade para MEI e empresas, departamento pessoal, imposto de renda e planejamento tributário — sempre com linguagem clara e atendimento próximo.",
+    "image": ""
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que contabilidade boa é aquela que o cliente entende e que mantém a empresa em dia sem sustos. Por isso conferimos cada apuração, explicamos os números em linguagem simples e respeitamos os prazos.\n\nTratamos o negócio do cliente com o mesmo cuidado que gostaríamos de receber: transparência na mensalidade, agilidade no atendimento e foco em fazer a empresa pagar o justo de imposto.",
+    "teamTitle": "Quem cuida da sua empresa",
+    "teamText": "Por trás de cada apuração existe uma equipe de contabilidade, departamento fiscal e departamento pessoal que confere cada detalhe. É esse cuidado que mantém a sua empresa regular e tranquila com o Fisco."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}
